@@ -1,0 +1,99 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource1.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "winres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// English (United States) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+#pragma code_page(1252)
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource1.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""winres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// PNG
+//
+
+IDB_PNG1                PNG                     "C:\\Users\\Siris\\Desktop\\JohnPablok Cburnett Chess set\\PNGs\\With Shadow\\128px\\b_bishop_png_shadow_128px.png"
+
+IDB_PNG2                PNG                     "C:\\Users\\Siris\\Desktop\\JohnPablok Cburnett Chess set\\PNGs\\With Shadow\\128px\\b_king_png_shadow_128px.png"
+
+IDB_PNG3                PNG                     "C:\\Users\\Siris\\Desktop\\JohnPablok Cburnett Chess set\\PNGs\\With Shadow\\128px\\b_knight_png_shadow_128px.png"
+
+IDB_PNG4                PNG                     "C:\\Users\\Siris\\Desktop\\JohnPablok Cburnett Chess set\\PNGs\\With Shadow\\128px\\b_pawn_png_shadow_128px.png"
+
+IDB_PNG5                PNG                     "C:\\Users\\Siris\\Desktop\\JohnPablok Cburnett Chess set\\PNGs\\With Shadow\\128px\\b_queen_png_shadow_128px.png"
+
+IDB_PNG6                PNG                     "C:\\Users\\Siris\\Desktop\\JohnPablok Cburnett Chess set\\PNGs\\With Shadow\\128px\\b_rook_png_shadow_128px.png"
+
+IDB_PNG7                PNG                     "C:\\Users\\Siris\\Desktop\\JohnPablok Cburnett Chess set\\PNGs\\With Shadow\\128px\\square brown dark_png_shadow_128px.png"
+
+IDB_PNG8                PNG                     "C:\\Users\\Siris\\Desktop\\JohnPablok Cburnett Chess set\\PNGs\\With Shadow\\128px\\square brown light_png_shadow_128px.png"
+
+IDB_PNG9                PNG                     "C:\\Users\\Siris\\Desktop\\JohnPablok Cburnett Chess set\\PNGs\\With Shadow\\128px\\square gray dark _png_shadow_128px.png"
+
+IDB_PNG10               PNG                     "C:\\Users\\Siris\\Desktop\\JohnPablok Cburnett Chess set\\PNGs\\With Shadow\\128px\\square gray light _png_shadow_128px.png"
+
+IDB_PNG11               PNG                     "C:\\Users\\Siris\\Desktop\\JohnPablok Cburnett Chess set\\PNGs\\With Shadow\\128px\\w_bishop_png_shadow_128px.png"
+
+IDB_PNG12               PNG                     "C:\\Users\\Siris\\Desktop\\JohnPablok Cburnett Chess set\\PNGs\\With Shadow\\128px\\w_king_png_shadow_128px.png"
+
+IDB_PNG13               PNG                     "C:\\Users\\Siris\\Desktop\\JohnPablok Cburnett Chess set\\PNGs\\With Shadow\\128px\\w_knight_png_shadow_128px.png"
+
+IDB_PNG14               PNG                     "C:\\Users\\Siris\\Desktop\\JohnPablok Cburnett Chess set\\PNGs\\With Shadow\\128px\\w_pawn_png_shadow_128px.png"
+
+IDB_PNG15               PNG                     "C:\\Users\\Siris\\Desktop\\JohnPablok Cburnett Chess set\\PNGs\\With Shadow\\128px\\w_queen_png_shadow_128px.png"
+
+IDB_PNG16               PNG                     "C:\\Users\\Siris\\Desktop\\JohnPablok Cburnett Chess set\\PNGs\\With Shadow\\128px\\w_rook_png_shadow_128px.png"
+
+#endif    // English (United States) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
